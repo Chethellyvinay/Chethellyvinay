@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Chethelly Vinay
 
-<!--
-**Chethellyvinay/Chethellyvinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineer | 💻 Web Developer | 🤖 ML Enthusiast  
+🌱 Currently building full-stack applications & ML models  
+🚀 Passionate about learning, creating, and innovating
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+### 🌾 [Crop Blight Detection using CNN & SVM](https://github.com/ChethellyVinay/crop-blight-cnn-svm)
+Detects crop diseases using deep learning for image analysis and SVM for classification.
+
+### 🎬 [Disney+ Hotstar Clone](https://github.com/ChethellyVinay/hotstar-clone-webapp)
+A web-based streaming application with user auth, content filtering, and responsive UI.
+
+---
+
+## 🧰 Tools & Technologies
+`Python` `SQL` `HTML` `CSS` `JavaScript` `Streamlit`  
+`GitHub` `Firebase` `TensorFlow` `MongoDB` `Numpy pandas`
+
+---
+
+## 📫 Let's Connect
+- 📧 [Email](mailto:vinayreddy70661@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinayreddy-chethelly)
