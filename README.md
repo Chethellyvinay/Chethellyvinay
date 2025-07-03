@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chethelly Vinay
 
-🎓 Software Engineer | 💻 Web Developer | 🤖 ML Enthusiast  
+🎓 Software Engineer | 💻 Web Developer | 🤖 AI&ML Enthusiast  
 🌱 Currently building full-stack applications & ML models  
 🚀 Passionate about learning, creating, and innovating
 
@@ -18,7 +18,7 @@ A web-based streaming application with user auth, content filtering, and respons
 
 ## 🧰 Tools & Technologies
 `Python` `SQL` `HTML` `CSS` `JavaScript` `Streamlit`  
-`GitHub` `Firebase` `TensorFlow` `MongoDB` `Numpy pandas`
+`GitHub` `Firebase` `TensorFlow` `MongoDB` `Numpy` `pandas`
 
 ---
 
